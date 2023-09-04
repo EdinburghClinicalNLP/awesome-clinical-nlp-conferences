@@ -1,4 +1,4 @@
-# awesome-clinical-nlp-conferences
+# Biomedical/Clinical NLP Conferences/Journals
 A list of biomedical and/or clinical NLP conferences
 
 ## Conferences/Journals
