@@ -1,7 +1,7 @@
 # awesome-clinical-nlp-conferences
 A list of biomedical and/or clinical NLP conferences
 
-## Conferences
+## Conferences/Journals
 ### Clinical NLP
 
 - [HealTAC](http://healtex.org/healtac-conference-series/)
